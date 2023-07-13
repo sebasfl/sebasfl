@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">A passionate amateur developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Developer**
 
 - 📫 How to reach me **s.franco2403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/sebastianfrancolopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sebastianfrancolopez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
