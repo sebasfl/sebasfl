@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">A passionate amateur developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Web Developer**
+- 🔭 I’m currently working as a **Web Developer** and **App Developer**
 
 - 📫 How to reach me **s.franco2403@gmail.com**
 
